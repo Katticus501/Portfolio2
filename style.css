@@ -1,0 +1,23 @@
+p {
+  font-family: "Sans-serif";
+}
+
+#characters_and_classes {
+  background-color: pink;
+  color:white;
+}
+
+#one {
+  height: 250px;
+  width: 30%;
+}
+
+#bod {
+  background-image:azure
+}
+
+
+#two {
+  height: 100px;
+  width: 70%
+}

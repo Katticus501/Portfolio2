@@ -1,0 +1,11 @@
+var mycharacters = document.getElementId("Characters");
+
+function changeColor() {
+  mybio.stye.color = "green";
+}
+mybio.onmouseover = changeColor;
+
+function changeBack() {
+  mybio.style.color = "white";
+}
+console.log(mycharacters);
