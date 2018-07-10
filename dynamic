@@ -1,0 +1,13 @@
+var mycharacters = document.getElementById("characters");
+
+function changeColor() {
+  mycharacters.style.color = "green";
+}
+
+
+function changeBack() {
+  mycharacters.style.color = "black";
+}
+
+mycharacters.onmouseover = changeColor;
+mycharacters.onmouseout = changeBack;
